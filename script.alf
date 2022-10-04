@@ -1,0 +1,9 @@
+#If#
+
+var n:int;
+
+iff n > 2 then
+	n <- n + 1;
+else
+	n <- n * 1;
+end;
